@@ -3,7 +3,7 @@
 /**
  * main -  prints out a quote
  *
- * return is always  0 when succesful
+ * return: is always  0 when succesful
  */
 
 

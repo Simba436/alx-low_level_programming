@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main -  prints out a quote
+ * main - Entry point of the program
  *
- * return: is always  0 when succesful
+ * Description: Prints a string to the standard output
+ * Return: Always 0 (Success)
  */
 
 

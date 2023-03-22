@@ -1,1 +1,18 @@
-The prototypes of all your functions and the prototype of the function _putchar
+#ifndef MAIN_HEADER_FILE
+#define MAIN_HEADER_FILE
+
+int _putchar(char c);
+void printf_alphabet(void);
+void printf_alphabet_x10(void);
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int);
+int print_last_digit(int);
+void jack_bauer(void);
+void times_table(void);
+void print_to_98(int n);
+int add(int, int);
+
+
+#endif
